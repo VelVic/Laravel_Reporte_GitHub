@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/laravel/compare/v10.3.1...10.x)
+## [Unreleased](https://github.com/laravel/laravel/compare/Laravel_Reporte_GitHub...main)
+
+## [Laravel_Reporte_GitHub](https://github.com/laravel/laravel/compare/v10.3.1...Laravel_Reporte_GitHub) - 2024-07-02
+
+**Full Changelog**:https://github.com/VelVic/Laravel_Reporte_GitHub.git
 
 ## [v10.3.1](https://github.com/laravel/laravel/compare/v10.3.0...v10.3.1) - 2023-12-23
 
